@@ -1,4 +1,11 @@
 # Java
-Estudo da faculdade linguagem Java
-<br>
-<img src="código.png" alt="código" width="150" height="100">
+<p>Estudo da faculdade linguagem Java</p>
+
+<p>Condição para verificar se é maior de idade em Java.</p>
+
+<p>Código:</p>
+
+<img src="código.png" alt="código" width="10%" height="10%">
+
+<p>Resultado:</p>
+<img src="resultado.png" alt="resultado" width="10%" height="10%">
