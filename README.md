@@ -5,7 +5,7 @@
 
 <p>Código:</p>
 
-<img src="código.png" alt="código" width="10%" height="10%">
+<img src="código.png" alt="código" width="20%" height="30%">
 
 <p>Resultado:</p>
-<img src="resultado.png" alt="resultado" width="10%" height="10%">
+<img src="resultado.png" alt="resultado" width="20%" height="30%">
